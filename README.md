@@ -1,25 +1,25 @@
-# 🌟 500+ AI Agent Projects / UseCases
+# 🌟 500+ AI Agent 项目 / 应用案例
 
 [![500-AI-Agents-Projects - UseCase](https://img.shields.io/badge/500--AI--Agents--Projects-UseCase-2ea44f?logo=https%3A%2F%2Fstatic-00.iconduck.com%2Fassets.00%2Frobot-emoji-2048x2044-kay057lt.png&logoColor=2ea44f)](https://github.com/ashishpatel26/500-AI-Agents-Projects)
 
 ![img](images/AIAgentUseCase.jpg)
 
-A curated collection of AI agent use cases across industries, showcasing practical applications and linking to open-source projects for implementation. Explore how AI agents are transforming industries like healthcare, finance, education, and more! 🤖✨
+一个经过精心挑选的AI agent用例集合，涵盖各个行业，展示实际应用并链接到开源项目以便于实施。探索AI agent如何在医疗、金融、教育等行业转变和革新！🤖✨
 
 ---
 
-## 📋 Table of Contents
+## 📋 目录
 
-- [Introduction](#introduction)
-- [Industry Usecase](#-industry-usecase-mindmap)
-- [Use Case Table](#use-case-table)
-- [Framework Wise UseCase](#framework-wise-usecases)
-  - [CrewAI UseCase](#framework-name-crewai)
-  - [AutoGen UseCase](#framework-name-autogen)
-  - [Agno UseCase](#framework-name-agno)
-  - [Langgraph UseCase](#framework-name-langgraph)
-- [Contributing](#contributing)
-- [License](#license)
+- [简介](#-introduction)
+- [行业应用案例](#-industry-usecase-mindmap)
+- [应用案例](#-use-case-table)
+- [框架应用案例](#framework-wise-usecases)
+  - [CrewAI 应用案例](#framework-name-crewai)
+  - [AutoGen 应用案例](#framework-name-autogen)
+  - [Agno 应用案例](#framework-name-agno)
+  - [Langgraph 应用案例](#framework-name-langgraph)
+- [贡献](#-contributing)
+- [开源许可证](#-license)
 
 ---
 
