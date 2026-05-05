@@ -10,9 +10,9 @@
 
 ## 📋 目录
 
-- [简介](#-introduction)
-- [行业应用案例](#-industry-usecase-mindmap)
-- [应用案例](#-use-case-table)
+- [简介](#-简介)
+- [行业应用案例](#-行业应用案例)
+- [应用案例](#-应用案例)
 - [框架应用案例](#framework-wise-usecases)
   - [CrewAI 应用案例](#framework-name-crewai)
   - [AutoGen 应用案例](#framework-name-autogen)
@@ -23,49 +23,49 @@
 
 ---
 
-## 🧠 Introduction
+## 🧠 简介
 
-Artificial Intelligence (AI) agents are revolutionizing the way industries operate. From personalized learning to financial trading bots, AI agents bring efficiency, innovation, and scalability. This repository provides:
+AI agent正在彻底改变各行业的运营方式。从个性化学习到金融交易机器人，AI agent带来了效率、创新和可扩展性。本仓库提供：
 
-- A categorized list of industries where AI agents are making an impact.
-- Detailed use cases with links to open-source projects for implementation.
+- 按类别划分的AI agent正在产生影响的行业列表。
+- 详细的用例以及用于实现的开源项目链接。
 
-Whether you're a developer, researcher, or business enthusiast, this repository is your go-to resource for AI agent inspiration and learning.
+无论你是开发者、研究人员还是商业爱好者，本仓库都是你获取AI agent灵感和学习的首选资源。
 
 ---
 
-## 🏭 Industry UseCase MindMap
+## 🏭 行业应用案例
 
 ![](images/industry_usecase1.png)
 
 ---
 
-## 🧩 Use Case Table
+## 🧩 应用案例
 
-| Use Case                                    | Industry         | Description                                              | Code Github                                                                                                                                                                          |
+| 案例                                    | 行业         | 描述                                              | 代码                                                                                                                                                                          |
 | ------------------------------------------- | ---------------- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **HIA (Health Insights Agent)**       | Healthcare       | analyses medical reports and provide health insights.    | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/harshhh28/hia.git)                                                                             |
-| **AI Health Assistant**               | Healthcare       | Diagnoses and monitors diseases using patient data.      | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/ahmadvh/AI-Agents-for-Medical-Diagnostics.git)                                                 |
-| **Automated Trading Bot**             | Finance          | Automates stock trading with real-time market analysis.  | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/MingyuJ666/Stockagent.git)                                                                     |
-| **Virtual AI Tutor**                  | Education        | Provides personalized education tailored to users.       | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/hqanhh/EduGPT.git)                                                                             |
-| **24/7 AI Chatbot**                   | Customer Service | Handles customer queries around the clock.               | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/customer_support_agent_langgraph.ipynb) |
-| **Product Recommendation Agent**      | Retail           | Suggests products based on user preferences and history. | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/microsoft/RecAI)                                                                               |
-| **Self-Driving Delivery Agent**       | Transportation   | Optimizes routes and autonomously delivers packages.     | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/sled-group/driVLMe)                                                                            |
-| **Factory Process Monitoring Agent**  | Manufacturing    | Monitors production lines and ensures quality control.   | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/yuchenxia/llm4ias)                                                                             |
-| **Property Pricing Agent**            | Real Estate      | Analyzes market trends to determine property prices.     | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/AleksNeStu/ai-real-estate-assistant)                                                           |
-| **Smart Farming Assistant**           | Agriculture      | Provides insights on crop health and yield predictions.  | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/mohammed97ashraf/LLM_Agri_Bot)                                                                 |
-| **Energy Demand Forecasting Agent**   | Energy           | Predicts energy usage to optimize grid management.       | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/yecchen/MIRAI)                                                                                 |
-| **Content Personalization Agent**     | Entertainment    | Recommends personalized media based on preferences.      | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/crosleythomas/MirrorGPT)                                                                       |
-| **Legal Document Review Assistant**   | Legal            | Automates document review and highlights key clauses.    | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/firica/legalai)                                                                                |
-| **Recruitment Recommendation Agent**  | Human Resources  | Suggests best-fit candidates for job openings.           | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/sentient-engineering/jobber)                                                                   |
-| **Virtual Travel Assistant**          | Hospitality      | Plans travel itineraries based on preferences.           | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/nirbar1985/ai-travel-agent)                                                                    |
-| **AI Game Companion Agent**           | Gaming           | Enhances player experience with real-time assistance.    | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/onjas-buidl/LLM-agent-game)                                                                    |
-| **Real-Time Threat Detection Agent**  | Cybersecurity    | Identifies potential threats and mitigates attacks.      | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/NVISOsecurity/cyber-security-llm-agents)                                                       |
-| **E-commerce Personal Shopper Agent** | E-commerce       | Helps customers find products they’ll love.             | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/Hoanganhvu123/ShoppingGPT)                                                                     |
-| **Logistics Optimization Agent**      | Supply Chain     | Plans efficient delivery routes and manages inventory.   | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/microsoft/OptiGuide)                                                                           |
-| **Vibe Hacking Agent**                | Cybersecurity    | Autonomous Multi-Agent Based Red Team Testing Service.   | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/PurpleAILAB/Decepticon) |
-| **MediSuite-Ai-Agent**  | Health insurance  | A medical ai agent that helps automating the process of hospitals / insurance claiming workflow. | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/MahmoudRabea13/MediSuite-Ai-Agent)                                         | 
-| **Lina-Egyptian-Medical-Chatbot**  | Health insurance  | A medical ai agent that helps automating the process of hospitals / insurance claiming workflow. | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/MahmoudRabea13/MediSuite-Ai-Agent)                                         |
+| **HIA (Health Insights Agent)**       | 医疗保健       | 分析医疗报告并提供健康见解。    | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/harshhh28/hia.git)                                                                             |
+| **AI Health Assistant**               | 医疗保健       | 使用患者数据诊断和监测疾病。      | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/ahmadvh/AI-Agents-for-Medical-Diagnostics.git)                                                 |
+| **Automated Trading Bot**             | 金融          | 通过实时市场分析自动化股票交易。  | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/MingyuJ666/Stockagent.git)                                                                     |
+| **Virtual AI Tutor**                  | 教育        | 提供针对用户的个性化教育。      | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/hqanhh/EduGPT.git)                                                                             |
+| **24/7 AI Chatbot**                   | 客户服务 | 全天候处理客户咨询。               | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/customer_support_agent_langgraph.ipynb) |
+| **Product Recommendation Agent**      | 零售           | 根据用户偏好和历史推荐产品。 | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/microsoft/RecAI)                                                                               |
+| **Self-Driving Delivery Agent**       | 交通   | 优化路线并自主配送包裹。     | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/sled-group/driVLMe)                                                                            |
+| **Factory Process Monitoring Agent**  | 制造业    | 监控生产线并确保质量控制。   | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/yuchenxia/llm4ias)                                                                             |
+| **Property Pricing Agent**            | 房地产      | 分析市场趋势以确定房产价格。    | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/AleksNeStu/ai-real-estate-assistant)                                                           |
+| **Smart Farming Assistant**           | 农业      | 提供作物健康和产量预测的见解。  | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/mohammed97ashraf/LLM_Agri_Bot)                                                                 |
+| **Energy Demand Forecasting Agent**   | 能源           | 预测能源使用以优化电网管理。      | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/yecchen/MIRAI)                                                                                 |
+| **Content Personalization Agent**     | 娱乐    | 根据偏好推荐个性化媒体内容。    | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/crosleythomas/MirrorGPT)                                                                       |
+| **Legal Document Review Assistant**   | 法律            | 自动化文档审查并突出显示关键条款。    | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/firica/legalai)                                                                                |
+| **Recruitment Recommendation Agent**  | 人力资源  | 为职位空缺推荐最合适的候选人。           | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/sentient-engineering/jobber)                                                                   |
+| **Virtual Travel Assistant**          | 酒店业      | 根据偏好规划旅行行程。           | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/nirbar1985/ai-travel-agent)                                                                    |
+| **AI Game Companion Agent**           | 游戏           | 通过实时协助增强玩家体验。   | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/onjas-buidl/LLM-agent-game)                                                                    |
+| **Real-Time Threat Detection Agent**  | 网络安全    | 识别潜在威胁并缓解攻击。      | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/NVISOsecurity/cyber-security-llm-agents)                                                       |
+| **E-commerce Personal Shopper Agent** | 电子商务       | 帮助客户找到他们喜欢的产品。            | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/Hoanganhvu123/ShoppingGPT)                                                                     |
+| **Logistics Optimization Agent**      | 供应链     | 规划高效的配送路线并管理库存。   | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/microsoft/OptiGuide)                                                                           |
+| **Vibe Hacking Agent**                | 网络安全    | 基于自主多Agent的红队测试服务。   | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/PurpleAILAB/Decepticon) |
+| **MediSuite-Ai-Agent**  | 医疗保险  | 一个医疗AI agent，帮助自动化医院/保险理赔工作流程。 | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/MahmoudRabea13/MediSuite-Ai-Agent)                                         | 
+| **Lina-Egyptian-Medical-Chatbot**  | 医疗保险  | 一个医疗AI agent，帮助自动化医院/保险理赔工作流程。 | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/MahmoudRabea13/MediSuite-Ai-Agent)                                         |
 
 ## Framework wise Usecases
 
